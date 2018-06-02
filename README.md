@@ -8,4 +8,5 @@ This is an implementation of a MAX961x chip driver for RTEMS OS.
 
 ### References
 [MAX9611 / MAX9612 datasheet](https://datasheets.maximintegrated.com/en/ds/MAX9611-MAX9612.pdf)
+
 [RTEMS](https://www.rtems.org/)
